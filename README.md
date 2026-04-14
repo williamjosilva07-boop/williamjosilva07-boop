@@ -46,10 +46,6 @@ Olá, me chamo William josé, tenho 18 anos e sou natural de Pernambuco. Conclu�
 <br/>
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/williamjosilva07-boop/williamjosilva07-boop/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/williamjosilva07-boop/williamjosilva07-boop/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/williamjosilva07-boop/williamjosilva07-boop/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/williamjosilva07-boop/williamjosilva07-boop/output/snake.svg" alt="Snake animation" />
 
 ###
