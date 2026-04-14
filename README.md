@@ -46,6 +46,6 @@ Olá, me chamo William josé, tenho 18 anos e sou natural de Pernambuco. Conclu�
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/williamjosilva07-boop/williamjosilva07-boop/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/williamjosilva/williamjosilva/output/snake.svg" alt="Snake animation" />
 
 ###
