@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Olá, me chamo William josé, tenho 18 anos e sou natural de Pernambuco. Concluí o ensino médio em 2026, com o curso tecnico de Análise de dados da CESAR School. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade UNOPAR. Sou facinado em tecnologia e busco aprender cada dia mais.
+Olá, me chamo William josé, tenho 18 anos e sou natural de Pernambuco. Concluí o ensino médio em 2025, com o curso tecnico de Análise de dados da CESAR School. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade UNOPAR. Sou facinado em tecnologia e busco aprender cada dia mais.
 
 ---
 
